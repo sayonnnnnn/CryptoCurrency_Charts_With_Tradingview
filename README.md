@@ -19,5 +19,6 @@ Step-7: ```npm run serve```
 ## Tradingview Chart
 The Chart rendered by Tradingview's widget along with the data passed on by Bitquery GraphQL API shows the data for the Binance Smart Chain Mainnet's latest prices in the Ethereum blockchain. The data is represented in the Candlestick format. 
 
-# ![Tradingview Charts showing Cryptocurrency data]()
+![Tradingview Bitquery](https://user-images.githubusercontent.com/66865452/130211096-f0d8fd3c-d45f-4de0-a38e-1438ac97617d.png)
+
 
